@@ -1,0 +1,26 @@
+.leftPop {
+    transform: scale(0.4);
+    display: flex;
+    justify-content: center;
+}
+.leftPop:hover {
+    transform: scale(0.6);
+    display: flex;
+    justify-content: center;
+}
+.rightPop {
+    transform: scale(0.4);
+    display: flex;
+    justify-content: center;
+}
+.rightPop:hover {
+    transform: scale(0.6);
+    display: flex;
+    justify-content: center;
+}
+
+.centeredTitre {
+    display: flex;
+    justify-content: center;
+    text-align:center;
+}
